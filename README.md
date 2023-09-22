@@ -1,1 +1,1 @@
-This is website for Odin Recipes
+This is website for Odin Recipes and contains 3 recipes
